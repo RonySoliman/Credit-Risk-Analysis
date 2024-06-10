@@ -1,4 +1,4 @@
-# German Credit Risk Score
+# Credit Risk Analysis
 
 - Build and train classification and/or regression models from the dataset in any suitable programming environment of your choosing (e.g., MATLAB) using three machine learning techniques of your choice.
 
